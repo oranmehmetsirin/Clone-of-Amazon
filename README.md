@@ -4,4 +4,4 @@ It is a reinterpretation of an amazon website clone. Although HTML and CSS are u
 
 You can find the gif of the project below.
 
-![Animation](https://github.com/oranmehmetsirin/Clone-of-Amazon/blob/main/gif.gif?raw=true)
+![Animation](https://github.com/oranmehmetsirin/Clone-of-Amazon/blob/main/gif.gif?raw=true) 
